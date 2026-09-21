@@ -1,0 +1,46 @@
+nav{
+    background-color: #e7b051;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 30px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.307);
+}
+
+.logo{
+    height: 50px;
+    padding-left: 50px;
+}
+
+.link-navbar a{
+    text-decoration: none;
+    color: #ffff;
+    margin:90px;
+}
+
+#hero{
+    background: linear-gradient(to bottom, navy, skyblue);
+    display: flex;
+    padding: 50px;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 50px 100px;
+}
+
+.hero-image{
+    height: 300px;
+}
+
+.deskripsi{
+    background-color: aliceblue;
+    width: 500px;
+    padding: 50px;
+    border-radius: 15px;
+}
+
+body{
+    background-color: bisque;
+
+}
